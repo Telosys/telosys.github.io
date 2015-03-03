@@ -1,2 +1,6 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
+
+.telosyslogo {
+	background-image: url('../img/logos/telosyslogo.png');
+}
