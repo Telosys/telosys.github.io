@@ -2,8 +2,8 @@
 title: Consult your data
 subtitle: View your entities data from a web application
 layout: default
-modal-id: 5
-date: 2014-07-14
+modal-id: 2
+date: 2015-03-12
 img: appsearch.png
 thumbnail: appsearch-thumbnail.png
 alt: image-alt

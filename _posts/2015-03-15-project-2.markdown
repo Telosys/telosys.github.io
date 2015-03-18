@@ -2,8 +2,8 @@
 title: Languages & Frameworks
 subtitle: Many languages and frameworks are available
 layout: default
-modal-id: 2
-date: 2014-07-17
+modal-id: 5
+date: 2015-03-15
 img: logos.png
 thumbnail: logos-thumbnail.png
 alt: image-alt

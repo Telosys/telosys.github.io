@@ -1,9 +1,9 @@
 ---
 title: Project
-subtitle: files
+subtitle: Project files structure with Telosys Tools plugin
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: 6
+date: 2015-03-16
 img: explorer.png
 thumbnail: explorer-thumbnail.png
 alt: image-alt

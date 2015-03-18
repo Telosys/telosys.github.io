@@ -2,8 +2,8 @@
 title: Bundles
 subtitle: Easy download from Github
 layout: default
-modal-id: 3
-date: 2014-07-16
+modal-id: 4
+date: 2015-03-14
 img: bundles-download.png
 thumbnail: bundles-download-thumbnail.png
 alt: image-alt

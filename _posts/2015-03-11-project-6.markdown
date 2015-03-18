@@ -2,8 +2,8 @@
 title: Edit your data
 subtitle: Manage your data with the generated application
 layout: default
-modal-id: 6
-date: 2014-07-15
+modal-id: 1
+date: 2015-03-11
 img: appedit.png
 thumbnail: appedit-thumbnail.png
 alt: image-alt
