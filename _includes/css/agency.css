@@ -10,6 +10,10 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
+header {
+    background-color:  #0277AF;
+}
+
 .portfolio-link .img-responsive {
     box-shadow: 0 0px 1px rgba(0, 0, 0, 0.5);
     width: 360px;
