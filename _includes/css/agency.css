@@ -10,6 +10,10 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
+.img-responsive {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+}
+
 .text-muted {
     color: #777;
 }
