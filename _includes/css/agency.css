@@ -10,8 +10,10 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
-.img-responsive {
+.portfolio-link .img-responsive {
     box-shadow: 0 0px 1px rgba(0, 0, 0, 0.5);
+    width: 360px;
+    height: 270px;
 }
 
 .text-muted {
